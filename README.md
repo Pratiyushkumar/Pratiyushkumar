@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pratiyush
-- 🖥️ I’m a Fulltime Web Developer and part-time open-source contributor.
+- 🖥️ I’m a Fulltime Web Developer and open-source contributor.
 - 🖥️ I am passionate about designing Websites.
-- ✏️ I have been working on React.js, Next.js, JS, HTML, CSS, typescript, React testing library, ember.js
-- ✏️ I’m onto learning the Backend process also to become a full-proof web developer😂, currently I'm a half web developer with frontend knowledge😜 
+- ✏️ I have been working on React, Next.js, JavaScript, HTML, CSS, TypeScript, React Testing Library, Ember.js
+- ✏️ I am Learning Backend Tech Stack.
 - 📲 You can Reach out to me on my LinkedIn https://www.linkedin.com/in/pratiyushkumar/ or my Twitter https://twitter.com/mein_pk
 - 🧑‍💼 You can also see my work on https://pratiyushkumar.netlify.app/
 - 🎮 My Hobbies are playing badminton, playing Cajon, and listening to songs.
