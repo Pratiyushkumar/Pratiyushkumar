@@ -3,7 +3,7 @@
 - 🖥️ I am passionate about designing Websites.
 - ✏️ I have been working on React, Next.js, JavaScript, HTML, CSS, TypeScript, React Testing Library, Ember.js
 - ✏️ I am Learning Backend Tech Stack as Node.js, Express.js, MongoDB, MYSQL, Prisma.
-- 📲 You can Reach out to me on my LinkedIn[https://www.linkedin.com/in/techpratiyush/] or my Twitter[https://x.com/mein_pk]
+- 📲 You can Reach out to me on my LinkedIn [https://www.linkedin.com/in/techpratiyush/] or my Twitter [https://x.com/mein_pk]
 - 🧑‍💼 You can also see my work on https://pratiyushkumar.netlify.app/
 - 🎮 My Hobbies are playing badminton, playing Cajon, and listening to songs.
 
